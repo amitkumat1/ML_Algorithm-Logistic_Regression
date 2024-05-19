@@ -1,11 +1,11 @@
 # ML_Algorithm-Logistic_Regression
-This repository will include the use of ML algorithm on predicting the classification dataset. We have used the Logistic regression to build the model
-We have the dataset of bank details that contains that target variable as classification data. It contains that data of whether the customer has bought the insurance or not. Actually, this is also called as dependent columns. Whereas there are other columns are somehow related to the result classification data and they are independent columns
+This repository will include the use of ML algorithm on predicting the classification dataset. We have used the Logistic regression to build the model.
+We have the dataset of bank details that contains that target variable as classification data. It contains that data of whether the customer has bought the insurance or not. Actually, this is also called as dependent columns. Whereas there are other columns are somehow related to the result classification data and they are independent columns.
 I have got the accuracy_score of 94% on this model.
 I am sharing all the modules, codes and algorithm I have used to get this model.
 # Table Of Content
 ## Importing Library
-I have imported the libraries like numpy and pandas to do the basic data analysis of the given datasets
+I have imported the libraries like numpy and pandas to do the basic data analysis of the given datasets.
 ## Uploading the Dataset
 I have uploaded the dataset from the google drive to my colab notebook on which I have built this model.
 ## Exploratory Data Analysis
